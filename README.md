@@ -17,7 +17,7 @@ Under `Project` you can find all the files, as they appear in the `CodeImages` s
 ### You can contribute!
 
 I still need to figure out the whole "open source in git" concept, but this game has not yet reached it's full potential!
-Whether you want to practice html, css and js, or just passioate about this game as I am - you can help me make it better!
+Whether you want to practice html, css and js, or just passionate about this game as I am - you can help me make it better!
 
 #### A few improvement ideas:
 - A nicer text box for answers - maybe even on the image itself (with "coding font" like [Izayoi Monospaced](https://www.fontspace.com/izayoi-monospaced-font-f32299))
